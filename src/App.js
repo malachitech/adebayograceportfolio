@@ -1,4 +1,4 @@
-import {useEffect, useState } from 'react'
+import React, {useEffect, useState } from 'react'
 
 import Intro from './Components/Intro'
 import Portfolio from './Components/Portfolio'
